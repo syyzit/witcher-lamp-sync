@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hidden config slot. modLampSync writes Sign whenever the equipped sign changes. -->
+<UserConfig>
+	<Group id="LampSync" displayName="LampSync" visibilityCondition="hideAlways">
+		<VisibleVars>
+			<Var id="Sign" displayName="Sign" displayType="SLIDER;0;10;10" visibilityCondition="hideAlways"/>
+		</VisibleVars>
+	</Group>
+</UserConfig>

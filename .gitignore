@@ -1,0 +1,4 @@
+lamp_config.json
+lamp_sync.log
+__pycache__/
+*.pyc
